@@ -8,6 +8,7 @@ class Persona:
 
 
    def asignar_edad(self, edad):
+       print("Prueba automerge")
        self.__edad = edad
 
    def asignar_nombre(self, nombre):
